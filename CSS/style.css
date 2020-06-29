@@ -1,0 +1,104 @@
+body {
+    font-family: sans-serif;
+}
+
+/******************************* HEADER **************************************/ 
+
+.col-8 {
+    margin-top: 40px;
+}
+
+header {  
+    left: 0;
+    right: 0;
+}
+header a {
+    color: black;
+    margin-left: 5px;
+    padding-right: 30px;
+}
+
+header a:hover {
+    color: black;
+}
+
+header a:visited {
+    color: black;
+}
+
+#menu-icon {
+    width: 30px;
+}
+
+/******************************** HERO SECTION ********************************/
+
+#hero-section {
+    background-image: url(../img/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-top: 20px;
+}
+
+.nav {
+    
+    margin-left: 25px;
+    margin-top: 90px;
+    background-color: #63b06c;
+    width: 700px;
+    height: 90px;
+}
+p {
+    font-size: 26px;
+    margin-left: 30px;
+    margin-top: 15px;
+    font-family: Verdana;
+}
+h1 {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+
+/******************************* INTRO SECTION *******************************/
+
+#intro-section {
+    background: #e3e3e3;
+}
+
+#razmak {
+    margin-right: 25px;
+}
+
+/******************************* ABOUT SECTION *******************************/
+
+#about-section {
+    background: #e3e3e3;
+}
+
+/******************************* FROM THE BLOG *******************************/
+#from-the-blog {
+    background: #e3e3e3;
+}
+
+/****************************** CONTACT INFO *********************************/
+
+#contact-info {
+    background: #212121;
+}
+
+#odvoji {
+    line-height: 1.8em;
+}
+
+/****************************** FOOTER SECTION ******************************/
+
+footer {
+    background: #000000;
+}
+
+#footer {    
+width: 100%;
+text-align: center;
+margin-right: 150px;
+}
